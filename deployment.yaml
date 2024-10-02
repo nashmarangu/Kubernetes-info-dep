@@ -30,3 +30,4 @@ spec:
                   key: DB_PASSWORD
           ports:
             - containerPort: 80
+#deployment yaml file
